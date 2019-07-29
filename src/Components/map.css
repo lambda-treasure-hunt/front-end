@@ -1,0 +1,15 @@
+.map-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  
+  
+}
+
+.map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75vw;
+  border: white 1px solid; /* border for layout purposes */
+}
